@@ -27,5 +27,5 @@ class BoardMember {
 }
 
 class Ceo {
-  constructor
+  constructor(name, training, homeState)
 }
