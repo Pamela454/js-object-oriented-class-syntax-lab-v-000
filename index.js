@@ -25,3 +25,7 @@ class BoardMember {
    }
  }
 }
+
+class Ceo {
+  constructor
+}
